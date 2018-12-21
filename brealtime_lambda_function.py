@@ -19,7 +19,7 @@ def lambda_handler(event, context):
         'referrer': 'LinkedIn',
         'degree': 'BA',
         'resume': 'http://jamesalday.com/projects/JRA2Resume.pdf',
-        'source': 'http://www.github.com/JamesAlday/...',
+        'source': 'https://github.com/JamesAlday/lambda/blob/master/brealtime_lambda_function.py',
         'status': 'Yes',
     }
     
